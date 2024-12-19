@@ -72,5 +72,5 @@ Interested in contributing to this project? Here's how you can help:
 
 For any inquiries or collaboration requests, please contact:
 - Email: [asyrafzf95@gmail.com](mailto:asyrafzf95gmail.com)
-- GitHub: [buroff1](https://github.com/asyrafzf95)
+- GitHub: [asyrafzf95](https://github.com/asyrafzf95)
 
