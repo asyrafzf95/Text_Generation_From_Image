@@ -71,6 +71,6 @@ Interested in contributing to this project? Here's how you can help:
 ## 📧Contact
 
 For any inquiries or collaboration requests, please contact:
-- Email: [artem.burov0205@gmail.com](mailto:artem.burov0205@gmail.com)
-- GitHub: [buroff1](https://github.com/buroff1)
+- Email: [asyrafzf95@gmail.com](mailto:asyrafzf95gmail.com)
+- GitHub: [buroff1](https://github.com/asyrafzf95)
 
